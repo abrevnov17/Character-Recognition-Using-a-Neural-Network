@@ -1,4 +1,4 @@
-#notes for next time: weights are super small, sigmoid is rounding to 1, and something weird is happening with normalization since they don't add up to 1
+#notes for next time: optimize step size
 
 import os
 import struct
